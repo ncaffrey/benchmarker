@@ -1,3 +1,3 @@
 benchmarker
 ===========
-abc
+A framework for executing and monitoring performance benchmarks
